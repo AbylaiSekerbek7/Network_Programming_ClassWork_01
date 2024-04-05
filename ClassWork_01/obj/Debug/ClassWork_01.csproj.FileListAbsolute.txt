@@ -1,0 +1,8 @@
+Z:\NET\NET_ClassWorks\ClassWork_01\ClassWork_01\bin\Debug\ClassWork_01.exe.config
+Z:\NET\NET_ClassWorks\ClassWork_01\ClassWork_01\bin\Debug\ClassWork_01.exe
+Z:\NET\NET_ClassWorks\ClassWork_01\ClassWork_01\bin\Debug\ClassWork_01.pdb
+Z:\NET\NET_ClassWorks\ClassWork_01\ClassWork_01\obj\Debug\ClassWork_01.csproj.AssemblyReference.cache
+Z:\NET\NET_ClassWorks\ClassWork_01\ClassWork_01\obj\Debug\ClassWork_01.csproj.SuggestedBindingRedirects.cache
+Z:\NET\NET_ClassWorks\ClassWork_01\ClassWork_01\obj\Debug\ClassWork_01.csproj.CoreCompileInputs.cache
+Z:\NET\NET_ClassWorks\ClassWork_01\ClassWork_01\obj\Debug\ClassWork_01.exe
+Z:\NET\NET_ClassWorks\ClassWork_01\ClassWork_01\obj\Debug\ClassWork_01.pdb
