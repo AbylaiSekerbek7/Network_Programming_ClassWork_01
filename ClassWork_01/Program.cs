@@ -18,7 +18,7 @@ namespace ClassWork_01
         // most popular protocols IP/TCP = IP - "InterNetwork", TCP - "Tcp";
         static Socket socServer = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
-        static string ipAddress = "127.0.0.1"; // localchost, local Machine
+        static string ipAddress = "0.0.0.0"; // localchost, local Machine
                                                // 0.0.0.0 - Маска для всех компьютеров
                                                // 192.168.1.10 - Локальная сеть
         static int port = 12345; // server port, for connection
